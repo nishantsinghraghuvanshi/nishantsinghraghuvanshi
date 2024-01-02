@@ -1,2 +1,2 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World;Welcome+to+my+profile+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World;Welcome+to+my+profile+" alt="Typing SVG" /></a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishantsinghraghuvanshi&bg_color=47e1ae&color=000000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
