@@ -1,2 +1,2 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishantsinghraghuvanshi&bg_color=47e1ae&color=000000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![giphy](https://github.com/nishantsinghraghuvanshi/nishantsinghraghuvanshi/assets/123824462/302b7ae3-f51b-4551-b5e8-488da3b6bff7)
+<center>![MLQx2kD](https://github.com/nishantsinghraghuvanshi/nishantsinghraghuvanshi/assets/123824462/19312850-6a6d-49d5-9fa2-161d7a7e7e72)</center>
